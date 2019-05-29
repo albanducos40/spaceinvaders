@@ -28,11 +28,8 @@ Tester fonctionnalité de notre code et de notre missile.
 
 
 
-
-Nuage de mots du projet spaceinvaders (séance n°1)  
+Nuage de mots :
 [!alt text](https://github.com/albanducos40/spaceinvaders/blob/master/nuageMots4.PNG)
 
 Diagramme de classes :
 [!alt text](https://github.com/albanducos40/spaceinvaders/blob/master/Diagramme4.PNG)
- 
-
