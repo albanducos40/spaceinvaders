@@ -124,6 +124,20 @@ Nous allons devoir implémenter notre moteur graphique de la commande tir pour p
 ## **Diagramme de classes (séance n°4)**
 ![alt text](https://github.com/albanducos40/spaceinvaders/blob/master/Diagramme4.PNG)
 
-## **Nuage de mots du projet spaceinvaders (séance n°2)**
+## **Nuage de mots du projet spaceinvaders (séance n°4)**
 
+![alt text](https://github.com/albanducos40/spaceinvaders/blob/master/nuageMots4.PNG)
+
+# **Séance 5**
+### (semaine du 29 mai au 06 juin)
+## ** Fonctionnalité n°5
+
+Nous aprochons vers la fin des séances pour avancer au maximum dans SpaceInvaders. L'objectif de cette fonctionnalité est de créer une collision entre deux Sprites (donc un missile et un envahisseur). J'ai pensé à créer une getteur de la position du missile et de la position du vaisseau. Grâce à cela nous allons pouvoir comparer en permanence la position des deux éléments et lorsque les positions sont équivalentes, nous déclenchons la destruction de ces derniers. 
+
+Malheureusement, je n'ai pas réussi à créer ceci donc notre projet s'arrête donc ici.
+
+## **Diagramme de classes (séance 5) :**
+![alt text](https://github.com/albanducos40/spaceinvaders/blob/master/Diagramme4.PNG)
+
+## **Nuage de mots (séance 5) :**
 ![alt text](https://github.com/albanducos40/spaceinvaders/blob/master/nuageMots4.PNG)
